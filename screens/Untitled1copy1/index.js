@@ -20,8 +20,8 @@ const Untitled1Copy1 = () => {
       fontSize: 14,
       borderRadius: 0
     }}>Lorem ipsum… </Text><View style={{
-      left: 6,
-      top: 169,
+      left: 27,
+      top: 189,
       position: "absolute",
       height: 60,
       width: 140,
